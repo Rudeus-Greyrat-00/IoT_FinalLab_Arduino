@@ -1,3 +1,5 @@
+#define U_ID_SERIAL "0200040000000001"
+
 void setup() {
   // put your setup code here, to run once:
 
